@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "type": "module",
   "main": "./lib/index.ts",
+  "license": "MIT",
   "module": "./lib/index.ts",
   "types": "./lib/index.ts",
   "files": ["lib"],
